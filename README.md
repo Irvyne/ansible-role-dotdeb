@@ -23,9 +23,11 @@ Example Playbook
 
 Install Dotdeb repositories on supported Debian hosts.
 
-    - hosts: all
-      roles:
-         - { role: dotdeb }
+```yaml
+- hosts: all
+  roles:
+    - { role: dotdeb }
+```
 
 License
 -------

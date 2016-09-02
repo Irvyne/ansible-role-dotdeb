@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - dotdeb
+    - ansible-role-dotdeb
