@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Thibaud BARDIN (Irvyne)
+  description: your description
+  license: MIT
+  min_ansible_version: 2.1
+  platforms:
+    - name: Debian
+      versions:
+        - jessie
+        - wheezy
+        - squeeze
+  galaxy_tags:
+    - development
+    - repository
+
+dependencies: []
